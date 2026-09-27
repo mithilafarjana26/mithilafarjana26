@@ -75,7 +75,7 @@ Artificial Intelligence & Machine Learning
 
 ## 🐍 GitHub Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/mithilafarjana26/mithilafarjana26/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/mithilafarjana26/mithilafarjana26/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
